@@ -1,2 +1,1 @@
-#testing
-#is on gh-pages!
+https://strongcookie.github.io/rsschool-cv/cv
