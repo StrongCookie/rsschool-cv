@@ -6,11 +6,11 @@
 
 ---
 
-- __E-mail__: 100pofarengeitu@gmail.com
+- __E-mail__: <100pofarengeitu@gmail.com>
 - **Phone Number**: +79869279465
 - **Discord**: URAVNOBESHENNY#5581
 - **GitHub**: [StrongCookie](https://github.com/StrongCookie)
-- **Telegram**: @uranvobeshenny
+- **Telegram**: [uravnobeshenny](https://t.me/uranvobeshenny)
 
 ## About me
 
