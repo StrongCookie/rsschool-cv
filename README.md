@@ -1,1 +1,1 @@
-https://strongcookie.github.io/rsschool-cv/cv
+https://strongcookie.github.io/rsschool-cv/
